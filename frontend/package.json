@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build"
-  },
+  }
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -17,3 +17,4 @@
     "@vitejs/plugin-react": "^4.2.1"
   }
 }
+
