@@ -5,11 +5,9 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview",
-    "start": "node server.js"
-  },
-  "dependencies": {
+    "build": "vite build"
+  }
+  "dependencies": {       <-- MISSING COMMA ABOVE
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "three": "^0.160.0"
